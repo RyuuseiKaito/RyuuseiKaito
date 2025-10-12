@@ -2,14 +2,11 @@
 <!-- <img src="https://media1.tenor.com/m/_SnZmK6s1xUAAAAd/violet-evergarden.gif" width="900"> -->
 <img src="https://media1.tenor.com/m/_nrzUUu02xcAAAAd/violet-evergarden.gif" width="900">
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=kimmyxpow&style=for-the-badge"  />
-</div>
-
 ###
 
 <div align="center">
-  <img src="https://www.codewars.com/users/kimmyxpow/badges/small" />
+  <img src="https://www.codewars.com/users/RyuuseiKaito/badges/small
+" />
 </div>
 
 ### <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="25px" /> &nbsp; Hello, I'm Pow! &nbsp; <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="25px" />
