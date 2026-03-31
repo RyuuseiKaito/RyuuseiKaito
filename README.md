@@ -1,15 +1,15 @@
-<a href="https://github.com/salmotide"><img src="/Folder%20Archive/AZAZELLCuyy.png"></a>
+<a href="https://github.com/AzazellCuy"><img src="/Folder%20Archive/AZAZELLCuyy.png"></a>
 
 <br clear="both">
 
-<h2> About 私自身 </h2>
+<h2> My About </h2>
 
-<img href="left" src="/Folder%20Archive/VIOLET1.png" width="35%"/>
+<img align="left" src="/Folder%20Archive/VIOLET1.png" width="25%"/>
 
 ```cpp
-Profile Version: 3.2
+Profile Version: 3.1
 --------------------
-Level: 十五
+Level: 20
 -----------
 Username: AzazelCuyy | Zulfan Lubis 
 Founder Industry : MORIKreatif Nusantara
